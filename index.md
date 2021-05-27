@@ -1,6 +1,6 @@
 # Monali Khandelwal
 
-## Junior Full stack Java developer
+## Junior Full Stack Java Developer
 
 ### Contact Information
 
