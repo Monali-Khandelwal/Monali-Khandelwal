@@ -13,4 +13,4 @@
 * **Github:** https://github.com/Monali-Khandelwal
 
 ## Summary
-Organized and dedicated junior Java developer with demonstrated ability to work with teams in Agile environment. Knowledgable in version contorl management system using GitCLI and GitHub, cummulating more than https://github.com/Monali-Khandelwal?tab=overview#year-link-2021 150 github contibutions in past 4 months.
+Organized and dedicated junior Java developer with demonstrated ability to work with teams in Agile environment. Knowledgable in version contorl management system using GitCLI and GitHub, cummulating more than 150 github contibutions in past 4 months.(https://github.com/Monali-Khandelwal?tab=overview#year-link-2021)
