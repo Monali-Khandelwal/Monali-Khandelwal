@@ -5,9 +5,7 @@
 ### Contact Information
 
 * **Email:** [khandelwal.monali@gmail.com](khandelwal.monali@gmail.com)
-
 * **LinkedIn:** [https://www.linkedin.com/in/monali-khandelwal/](https://www.linkedin.com/in/monali-khandelwal/)
-
 * **Github:** [https://github.com/Monali-Khandelwal](https://github.com/Monali-Khandelwal)
 
 ## Summary
@@ -34,4 +32,3 @@ Experienced Junior Java developer with more than 1000 hours of bootcamp experien
 
 ### Console Based Maven Application: ATM
 * Worked in a team of three developers to create an ATM App based on Core Java with various transactions between savings, checking, and investment accounts; used Agile methodologies (daily standups) with the team to create a UML and separately developed components of the overall application; personally developed bank account, account transaction, transaction receipt modules.[https://github.com/Monali-Khandelwal/Maven.Casino](https://github.com/Monali-Khandelwal/Maven.Casino)
-
