@@ -5,7 +5,6 @@
 ### Contact Information
 
 * **Email:** khandelwal.monali@gmail.com
-* **Phone:** +1-551-358-9389
 * **LinkedIn:** https://www.linkedin.com/in/monali-khandelwal/
 * **Github:** https://github.com/Monali-Khandelwal
 
