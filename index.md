@@ -24,8 +24,7 @@ Experienced Junior Java developer with more than 1000 hours of bootcamp experien
 ## Technial Projects
 
 ### Full Stack Web Application: Hephastus
-* Created ReactJS Web application in a team of four, deployed to Heroku which crosses origins with Spring Boot webserver, performing CRUD operations on MySQL database to manage a blog site. [Frontend](https://github.com/Monali-Khandelwal/Haphaestus-frontend)
-[Backend](https://github.com/Monali-Khandelwal/hephaestus-backend)
+* Created [ReactJS Web application](https://github.com/Monali-Khandelwal/Haphaestus-frontend) in a team of four, deployed to Heroku which crosses origins with [Spring Boot webserver](https://github.com/Monali-Khandelwal/hephaestus-backend), performing CRUD operations on MySQL database to manage a blog site.
 
 ### Console Based Maven Application: Casino
 * Collaborated with a group of three developers to create a CLI Casino App hosting two games based on Core Java; used Agile methodologies (daily standups, Trello board) with the team to create a UML and separately develop components of the overall application; personally, developed the user interface to create a new player, welcome and teller menu modules which keeps track of the player account balance throughout the game. [https://github.com/Monali-Khandelwal/Maven.Casino](https://github.com/Monali-Khandelwal/Maven.Casino)
